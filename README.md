@@ -3,7 +3,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://git.kpfu.ru/hpocrit/OipProject.git
+git clone https://github.com/hpocrit/OipProject
 cd OipProject
 ```
 
