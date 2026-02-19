@@ -1,0 +1,23 @@
+2026-02-18 21:25:36,516 [INFO] ============================================================
+2026-02-18 21:25:36,516 [INFO] Токенизация и лемматизация запущены
+2026-02-18 21:25:36,516 [INFO] Источник: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages
+2026-02-18 21:25:36,516 [INFO] ============================================================
+2026-02-18 21:25:36,517 [INFO] В папке /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages найдено 100 HTML-файлов
+2026-02-18 21:25:37,497 [INFO] Обработано 20 из 100 файлов...
+2026-02-18 21:25:38,538 [INFO] Обработано 40 из 100 файлов...
+2026-02-18 21:25:39,903 [INFO] Обработано 60 из 100 файлов...
+2026-02-18 21:25:41,242 [INFO] Обработано 80 из 100 файлов...
+2026-02-18 21:25:42,602 [INFO] Обработано 100 из 100 файлов...
+2026-02-18 21:25:42,602 [INFO] Файлов обработано: 100
+2026-02-18 21:25:42,602 [INFO] Уникальных токенов собрано: 11775
+2026-02-18 21:25:42,602 [INFO] Лемматизация...
+2026-02-18 21:25:42,620 [INFO] Loading dictionaries from /Users/aliyagabdullina/PycharmProjects/IopProject/.venv/lib/python3.14/site-packages/pymorphy3_dicts_ru/data
+2026-02-18 21:25:42,643 [INFO] format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2026-02-18 21:25:43,101 [INFO] Уникальных лемм получено: 6558
+2026-02-18 21:25:43,103 [INFO] Токены записаны в /Users/aliyagabdullina/PycharmProjects/IopProject/task2/tokens.txt — 11775 шт.
+2026-02-18 21:25:43,106 [INFO] Леммы записаны в /Users/aliyagabdullina/PycharmProjects/IopProject/task2/lemmas_tokens.txt — 6558 шт.
+2026-02-18 21:25:43,106 [INFO] ============================================================
+2026-02-18 21:25:43,107 [INFO] Готово
+2026-02-18 21:25:43,107 [INFO]   Токенов:   11775  →  /Users/aliyagabdullina/PycharmProjects/IopProject/task2/tokens.txt
+2026-02-18 21:25:43,107 [INFO]   Лемм:      6558  →  /Users/aliyagabdullina/PycharmProjects/IopProject/task2/lemmas_tokens.txt
+2026-02-18 21:25:43,107 [INFO] ============================================================

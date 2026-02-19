@@ -1,0 +1,218 @@
+2026-02-18 21:04:51,943 [INFO] ============================================================
+2026-02-18 21:04:51,943 [INFO] Веб-краулер запущен
+2026-02-18 21:04:51,943 [INFO] Сайт:          www.povarenok.ru
+2026-02-18 21:04:51,943 [INFO] Цель:          100 страниц
+2026-02-18 21:04:51,943 [INFO] Директория:    /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages
+2026-02-18 21:04:51,943 [INFO] ============================================================
+2026-02-18 21:04:51,944 [INFO] [1/100] https://www.povarenok.ru/recipes/
+2026-02-18 21:04:52,914 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/001.html (359732 байт)
+2026-02-18 21:04:54,353 [INFO] [2/100] https://www.povarenok.ru
+2026-02-18 21:04:54,807 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/002.html (348794 байт)
+2026-02-18 21:04:56,481 [INFO] [3/100] https://www.povarenok.ru/recipes/search/?ing=1
+2026-02-18 21:04:56,924 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/003.html (343608 байт)
+2026-02-18 21:04:58,211 [INFO] [4/100] https://www.povarenok.ru/recipes/cat/
+2026-02-18 21:04:58,517 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/004.html (204429 байт)
+2026-02-18 21:04:59,876 [INFO] [5/100] https://www.povarenok.ru/recipes/category/2/
+2026-02-18 21:05:00,340 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/005.html (365503 байт)
+2026-02-18 21:05:02,271 [INFO] [6/100] https://www.povarenok.ru/recipes/category/6/
+2026-02-18 21:05:02,742 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/006.html (370942 байт)
+2026-02-18 21:05:03,885 [INFO] [7/100] https://www.povarenok.ru/recipes/category/12/
+2026-02-18 21:05:04,342 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/007.html (369868 байт)
+2026-02-18 21:05:05,974 [INFO] [8/100] https://www.povarenok.ru/recipes/category/15/
+2026-02-18 21:05:06,449 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/008.html (361187 байт)
+2026-02-18 21:05:07,755 [INFO] [9/100] https://www.povarenok.ru/recipes/category/25/
+2026-02-18 21:05:08,213 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/009.html (361139 байт)
+2026-02-18 21:05:09,401 [INFO] [10/100] https://www.povarenok.ru/recipes/category/30/
+2026-02-18 21:05:09,852 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/010.html (363033 байт)
+2026-02-18 21:05:11,382 [INFO] [11/100] https://www.povarenok.ru/recipes/add/
+2026-02-18 21:05:12,655 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/011.html (8773 байт)
+2026-02-18 21:05:13,881 [INFO] [12/100] https://www.povarenok.ru/recipes/category/23/
+2026-02-18 21:05:14,342 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/012.html (358848 байт)
+2026-02-18 21:05:15,502 [INFO] [13/100] https://www.povarenok.ru/maslenitsa/
+2026-02-18 21:05:15,844 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/013.html (304601 байт)
+2026-02-18 21:05:17,451 [INFO] [14/100] https://www.povarenok.ru/video/
+2026-02-18 21:05:17,918 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/014.html (350414 байт)
+2026-02-18 21:05:19,740 [INFO] [15/100] https://www.povarenok.ru/wiki/konkurs
+2026-02-18 21:05:20,034 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/015.html (171745 байт)
+2026-02-18 21:05:21,911 [INFO] [16/100] https://www.povarenok.ru/answers/
+2026-02-18 21:05:22,200 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/016.html (110986 байт)
+2026-02-18 21:05:23,576 [INFO] [17/100] https://www.povarenok.ru/gotovim-vmeste/
+2026-02-18 21:05:23,870 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/017.html (125527 байт)
+2026-02-18 21:05:25,769 [INFO] [18/100] https://www.povarenok.ru/blog/
+2026-02-18 21:05:26,079 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/018.html (114195 байт)
+2026-02-18 21:05:27,893 [INFO] [19/100] https://www.povarenok.ru/advice/
+2026-02-18 21:05:28,182 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/019.html (104994 байт)
+2026-02-18 21:05:29,942 [INFO] [20/100] https://www.povarenok.ru/dict/
+2026-02-18 21:05:30,413 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/020.html (383284 байт)
+2026-02-18 21:05:32,110 [INFO] [21/100] https://www.povarenok.ru/users/
+2026-02-18 21:05:32,406 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/021.html (153588 байт)
+2026-02-18 21:05:33,676 [INFO] [22/100] https://www.povarenok.ru/register/?addrecipe=1
+2026-02-18 21:05:33,962 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/022.html (8658 байт)
+2026-02-18 21:05:35,760 [INFO] [23/100] https://www.povarenok.ru/register/
+2026-02-18 21:05:36,043 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/023.html (8658 байт)
+2026-02-18 21:05:37,062 [INFO] [24/100] https://www.povarenok.ru/remind/
+2026-02-18 21:05:37,353 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/024.html (6490 байт)
+2026-02-18 21:05:39,286 [INFO] [25/100] https://www.povarenok.ru/oauth/mailru/login/?backpath=https://www.povarenok.ru/recipes/
+2026-02-18 21:05:41,187 [INFO] [25/100] https://www.povarenok.ru/oauth/yandex/login/?backpath=https://www.povarenok.ru/recipes/
+2026-02-18 21:05:43,132 [INFO] [25/100] https://www.povarenok.ru/oauth/gmail/login/?backpath=https://www.povarenok.ru/recipes/
+2026-02-18 21:05:44,303 [INFO] [25/100] https://www.povarenok.ru/privacy-policy/
+2026-02-18 21:05:44,574 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/025.html (81023 байт)
+2026-02-18 21:05:46,380 [INFO] [26/100] https://www.povarenok.ru/recipes/show/183492/
+2026-02-18 21:05:46,846 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/026.html (350725 байт)
+2026-02-18 21:05:48,774 [INFO] [27/100] https://www.povarenok.ru/recipes/category/8/
+2026-02-18 21:05:49,241 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/027.html (357809 байт)
+2026-02-18 21:05:50,421 [INFO] [28/100] https://www.povarenok.ru/recipes/category/62/
+2026-02-18 21:05:50,881 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/028.html (361316 байт)
+2026-02-18 21:05:52,128 [INFO] [29/100] https://www.povarenok.ru/recipes/ingredient/956
+2026-02-18 21:05:52,767 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/029.html (358729 байт)
+2026-02-18 21:05:54,790 [INFO] [30/100] https://www.povarenok.ru/recipes/ingredient/3562
+2026-02-18 21:05:55,371 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/030.html (356768 байт)
+2026-02-18 21:05:56,824 [INFO] [31/100] https://www.povarenok.ru/recipes/ingredient/2314
+2026-02-18 21:05:57,420 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/031.html (361927 байт)
+2026-02-18 21:05:59,035 [INFO] [32/100] https://www.povarenok.ru/recipes/ingredient/875
+2026-02-18 21:05:59,655 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/032.html (361537 байт)
+2026-02-18 21:06:00,917 [INFO] [33/100] https://www.povarenok.ru/recipes/ingredient/2267
+2026-02-18 21:06:01,547 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/033.html (355382 байт)
+2026-02-18 21:06:03,411 [INFO] [34/100] https://www.povarenok.ru/recipes/ingredient/1067
+2026-02-18 21:06:04,004 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/034.html (356179 байт)
+2026-02-18 21:06:05,485 [INFO] [35/100] https://www.povarenok.ru/recipes/ingredient/4502
+2026-02-18 21:06:06,106 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/035.html (360519 байт)
+2026-02-18 21:06:08,166 [INFO] [36/100] https://www.povarenok.ru/recipes/ingredient/2362
+2026-02-18 21:06:08,777 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/036.html (355924 байт)
+2026-02-18 21:06:09,954 [INFO] [37/100] https://www.povarenok.ru/recipes/ingredient/351
+2026-02-18 21:06:10,534 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/037.html (356655 байт)
+2026-02-18 21:06:12,042 [INFO] [38/100] https://www.povarenok.ru/recipes/ingredient/1671
+2026-02-18 21:06:12,628 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/038.html (358795 байт)
+2026-02-18 21:06:14,061 [INFO] [39/100] https://www.povarenok.ru/recipes/ingredient/2329
+2026-02-18 21:06:14,670 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/039.html (357232 байт)
+2026-02-18 21:06:16,693 [INFO] [40/100] https://www.povarenok.ru/recipes/ingredient/1681
+2026-02-18 21:06:17,291 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/040.html (354823 байт)
+2026-02-18 21:06:19,317 [INFO] [41/100] https://www.povarenok.ru/recipes/show/183491/
+2026-02-18 21:06:19,784 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/041.html (361960 байт)
+2026-02-18 21:06:21,831 [INFO] [42/100] https://www.povarenok.ru/recipes/category/33/
+2026-02-18 21:06:22,303 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/042.html (362706 байт)
+2026-02-18 21:06:23,928 [INFO] [43/100] https://www.povarenok.ru/recipes/category/67/
+2026-02-18 21:06:24,398 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/043.html (361533 байт)
+2026-02-18 21:06:26,021 [INFO] [44/100] https://www.povarenok.ru/recipes/ingredient/1867
+2026-02-18 21:06:26,615 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/044.html (360937 байт)
+2026-02-18 21:06:28,539 [INFO] [45/100] https://www.povarenok.ru/recipes/ingredient/1387
+2026-02-18 21:06:29,118 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/045.html (359170 байт)
+2026-02-18 21:06:31,130 [INFO] [46/100] https://www.povarenok.ru/recipes/ingredient/2426
+2026-02-18 21:06:31,708 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/046.html (359871 байт)
+2026-02-18 21:06:33,264 [INFO] [47/100] https://www.povarenok.ru/recipes/ingredient/1722
+2026-02-18 21:06:33,846 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/047.html (356436 байт)
+2026-02-18 21:06:35,735 [INFO] [48/100] https://www.povarenok.ru/recipes/ingredient/2036
+2026-02-18 21:06:36,336 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/048.html (355749 байт)
+2026-02-18 21:06:37,806 [INFO] [49/100] https://www.povarenok.ru/recipes/ingredient/2213
+2026-02-18 21:06:38,394 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/049.html (360567 байт)
+2026-02-18 21:06:40,022 [INFO] [50/100] https://www.povarenok.ru/recipes/ingredient/9050
+2026-02-18 21:06:40,630 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/050.html (362559 байт)
+2026-02-18 21:06:42,076 [INFO] [51/100] https://www.povarenok.ru/recipes/show/183490/
+2026-02-18 21:06:42,544 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/051.html (375133 байт)
+2026-02-18 21:06:44,553 [INFO] [52/100] https://www.povarenok.ru/recipes/ingredient/743
+2026-02-18 21:06:45,143 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/052.html (358805 байт)
+2026-02-18 21:06:46,514 [INFO] [53/100] https://www.povarenok.ru/recipes/ingredient/2349
+2026-02-18 21:06:47,124 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/053.html (360189 байт)
+2026-02-18 21:06:48,792 [INFO] [54/100] https://www.povarenok.ru/recipes/show/183489/
+2026-02-18 21:06:49,287 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/054.html (392208 байт)
+2026-02-18 21:06:51,230 [INFO] [55/100] https://www.povarenok.ru/recipes/category/24/
+2026-02-18 21:06:51,699 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/055.html (357452 байт)
+2026-02-18 21:06:53,588 [INFO] [56/100] https://www.povarenok.ru/recipes/category/392/
+2026-02-18 21:06:54,055 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/056.html (364795 байт)
+2026-02-18 21:06:55,817 [INFO] [57/100] https://www.povarenok.ru/recipes/ingredient/2339
+2026-02-18 21:06:56,410 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/057.html (355433 байт)
+2026-02-18 21:06:58,275 [INFO] [58/100] https://www.povarenok.ru/recipes/ingredient/1125
+2026-02-18 21:06:58,865 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/058.html (356356 байт)
+2026-02-18 21:07:00,426 [INFO] [59/100] https://www.povarenok.ru/recipes/ingredient/1601
+2026-02-18 21:07:01,000 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/059.html (355817 байт)
+2026-02-18 21:07:02,653 [INFO] [60/100] https://www.povarenok.ru/recipes/ingredient/1666
+2026-02-18 21:07:03,226 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/060.html (354387 байт)
+2026-02-18 21:07:04,539 [INFO] [61/100] https://www.povarenok.ru/recipes/ingredient/2274
+2026-02-18 21:07:05,140 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/061.html (355231 байт)
+2026-02-18 21:07:06,634 [INFO] [62/100] https://www.povarenok.ru/recipes/ingredient/1068
+2026-02-18 21:07:07,215 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/062.html (358787 байт)
+2026-02-18 21:07:08,433 [INFO] [63/100] https://www.povarenok.ru/recipes/ingredient/22675
+2026-02-18 21:07:09,017 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/063.html (351303 байт)
+2026-02-18 21:07:11,086 [INFO] [64/100] https://www.povarenok.ru/recipes/ingredient/3076
+2026-02-18 21:07:11,683 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/064.html (357500 байт)
+2026-02-18 21:07:13,588 [INFO] [65/100] https://www.povarenok.ru/recipes/ingredient/1657
+2026-02-18 21:07:14,181 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/065.html (354587 байт)
+2026-02-18 21:07:16,218 [INFO] [66/100] https://www.povarenok.ru/recipes/ingredient/3527
+2026-02-18 21:07:16,796 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/066.html (351279 байт)
+2026-02-18 21:07:18,546 [INFO] [67/100] https://www.povarenok.ru/recipes/ingredient/2310
+2026-02-18 21:07:19,144 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/067.html (359988 байт)
+2026-02-18 21:07:20,303 [INFO] [68/100] https://www.povarenok.ru/recipes/show/183488/
+2026-02-18 21:07:20,754 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/068.html (368287 байт)
+2026-02-18 21:07:22,372 [INFO] [69/100] https://www.povarenok.ru/recipes/category/36/
+2026-02-18 21:07:22,840 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/069.html (353832 байт)
+2026-02-18 21:07:24,088 [INFO] [70/100] https://www.povarenok.ru/recipes/category/154/
+2026-02-18 21:07:24,539 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/070.html (358816 байт)
+2026-02-18 21:07:25,748 [INFO] [71/100] https://www.povarenok.ru/recipes/ingredient/2355
+2026-02-18 21:07:26,346 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/071.html (363649 байт)
+2026-02-18 21:07:27,996 [INFO] [72/100] https://www.povarenok.ru/recipes/ingredient/442
+2026-02-18 21:07:28,589 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/072.html (354904 байт)
+2026-02-18 21:07:29,894 [INFO] [73/100] https://www.povarenok.ru/recipes/ingredient/2273
+2026-02-18 21:07:30,476 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/073.html (351644 байт)
+2026-02-18 21:07:31,735 [INFO] [74/100] https://www.povarenok.ru/recipes/ingredient/2381
+2026-02-18 21:07:32,321 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/074.html (355591 байт)
+2026-02-18 21:07:34,117 [INFO] [75/100] https://www.povarenok.ru/recipes/show/183487/
+2026-02-18 21:07:34,572 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/075.html (370160 байт)
+2026-02-18 21:07:35,855 [INFO] [76/100] https://www.povarenok.ru/recipes/category/9/
+2026-02-18 21:07:36,311 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/076.html (359714 байт)
+2026-02-18 21:07:37,533 [INFO] [77/100] https://www.povarenok.ru/recipes/category/63/
+2026-02-18 21:07:38,002 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/077.html (358487 байт)
+2026-02-18 21:07:39,693 [INFO] [78/100] https://www.povarenok.ru/recipes/ingredient/5100
+2026-02-18 21:07:40,285 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/078.html (361714 байт)
+2026-02-18 21:07:42,086 [INFO] [79/100] https://www.povarenok.ru/recipes/ingredient/763
+2026-02-18 21:07:42,677 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/079.html (355864 байт)
+2026-02-18 21:07:44,747 [INFO] [80/100] https://www.povarenok.ru/recipes/ingredient/697
+2026-02-18 21:07:45,335 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/080.html (357641 байт)
+2026-02-18 21:07:47,390 [INFO] [81/100] https://www.povarenok.ru/recipes/ingredient/1701
+2026-02-18 21:07:47,980 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/081.html (354386 байт)
+2026-02-18 21:07:49,900 [INFO] [82/100] https://www.povarenok.ru/recipes/ingredient/1457
+2026-02-18 21:07:50,500 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/082.html (356540 байт)
+2026-02-18 21:07:51,605 [INFO] [83/100] https://www.povarenok.ru/recipes/show/183486/
+2026-02-18 21:07:52,074 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/083.html (353657 байт)
+2026-02-18 21:07:53,784 [INFO] [84/100] https://www.povarenok.ru/recipes/category/29/
+2026-02-18 21:07:54,248 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/084.html (360824 байт)
+2026-02-18 21:07:55,621 [INFO] [85/100] https://www.povarenok.ru/recipes/category/185/
+2026-02-18 21:07:56,090 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/085.html (354117 байт)
+2026-02-18 21:07:57,652 [INFO] [86/100] https://www.povarenok.ru/recipes/ingredient/7104
+2026-02-18 21:07:58,245 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/086.html (364509 байт)
+2026-02-18 21:07:59,500 [INFO] [87/100] https://www.povarenok.ru/recipes/ingredient/2837
+2026-02-18 21:08:00,097 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/087.html (352569 байт)
+2026-02-18 21:08:01,577 [INFO] [88/100] https://www.povarenok.ru/recipes/ingredient/97
+2026-02-18 21:08:02,180 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/088.html (357293 байт)
+2026-02-18 21:08:04,203 [INFO] [89/100] https://www.povarenok.ru/recipes/ingredient/1147
+2026-02-18 21:08:04,794 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/089.html (359180 байт)
+2026-02-18 21:08:06,147 [INFO] [90/100] https://www.povarenok.ru/recipes/ingredient/1538
+2026-02-18 21:08:06,743 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/090.html (357468 байт)
+2026-02-18 21:08:08,743 [INFO] [91/100] https://www.povarenok.ru/recipes/show/183485/
+2026-02-18 21:08:09,262 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/091.html (412451 байт)
+2026-02-18 21:08:10,978 [INFO] [92/100] https://www.povarenok.ru/recipes/category/43/
+2026-02-18 21:08:11,436 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/092.html (359791 байт)
+2026-02-18 21:08:12,528 [INFO] [93/100] https://www.povarenok.ru/recipes/ingredient/1608
+2026-02-18 21:08:13,129 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/093.html (358484 байт)
+2026-02-18 21:08:15,071 [INFO] [94/100] https://www.povarenok.ru/recipes/ingredient/1105
+2026-02-18 21:08:15,673 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/094.html (357115 байт)
+2026-02-18 21:08:17,531 [INFO] [95/100] https://www.povarenok.ru/recipes/ingredient/3226
+2026-02-18 21:08:18,130 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/095.html (358198 байт)
+2026-02-18 21:08:19,405 [INFO] [96/100] https://www.povarenok.ru/recipes/ingredient/851
+2026-02-18 21:08:20,048 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/096.html (359514 байт)
+2026-02-18 21:08:21,554 [INFO] [97/100] https://www.povarenok.ru/recipes/ingredient/22712
+2026-02-18 21:08:22,145 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/097.html (358902 байт)
+2026-02-18 21:08:24,059 [INFO] [98/100] https://www.povarenok.ru/recipes/ingredient/3320
+2026-02-18 21:08:24,719 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/098.html (364643 байт)
+2026-02-18 21:08:26,339 [INFO] [99/100] https://www.povarenok.ru/recipes/ingredient/8112
+2026-02-18 21:08:26,921 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/099.html (351882 байт)
+2026-02-18 21:08:28,440 [INFO] [100/100] https://www.povarenok.ru/recipes/show/183484/
+2026-02-18 21:08:28,912 [INFO]   Сохранено: /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/100.html (364844 байт)
+2026-02-18 21:08:28,990 [INFO] ============================================================
+2026-02-18 21:08:28,991 [INFO] Работа завершена
+2026-02-18 21:08:28,991 [INFO]   Скачано страниц:        100
+2026-02-18 21:08:28,991 [INFO]   Пропущено (мало текста):3
+2026-02-18 21:08:28,991 [INFO]   Ошибок при загрузке:    0
+2026-02-18 21:08:28,991 [INFO]   Осталось в очереди:     111493
+2026-02-18 21:08:28,991 [INFO]   Страницы сохранены в:   /Users/aliyagabdullina/PycharmProjects/IopProject/task1/pages/
+2026-02-18 21:08:28,991 [INFO]   Индексный файл:         /Users/aliyagabdullina/PycharmProjects/IopProject/task1/index.txt
+2026-02-18 21:08:28,991 [INFO] ============================================================

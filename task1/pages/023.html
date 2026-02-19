@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="viewport" content="width=980">
+<meta name="robots" content="noindex" />
+
+<title>Поварёнок - регистрация</title>
+
+<link rel="stylesheet" href="//login.mediafort.ru/css/style.css?v=2">
+
+<script src="//login.mediafort.ru/js/vendor/jquery-1.8.2.min.js"></script>
+<script src="//login.mediafort.ru/js/script.js"></script>
+
+<script>
+var spart='8bdda425';
+</script>
+
+</head>
+
+<body class="devicetype_pc">
+
+<div id="toptable-container">
+<table class="toptable toptable1" cellspacing="0">
+<tr>
+<td style="background:#f68d94;"><a href="http://www.stranamam.ru/" target="_blank" style="color:white;">Страна Мам</a></td>
+<td style="background:#f3d8a2;"><a href="http://www.myjulia.ru/" target="_blank">myJulia.ru</a></td>
+<td style="background:#fff69e;"><a href="http://www.povarenok.ru/" target="_blank">Поварёнок</a></td>
+<td style="background:#b4d89b;"><a href="http://www.diets.ru/" target="_blank">Diets.ru</a></td>
+<td style="background:#b27cb2;"><a href="http://www.myjane.ru/" target="_blank" style="color:white;">myJane.ru</a></td>
+<td style="background:#ef83b9;"><a href="http://www.relook.ru/" target="_blank" style="color:white;">Relook.ru</a></td>
+</tr>
+</table>
+<div class="toptable-extra" style="display:none;">
+<table class="toptable toptable2" cellspacing="0">
+<tr>
+<td style="background:#f68d94;"><a href="http://www.stranamam.ru/" target="_blank" style="color:white;">Сайт для родителей<br>и тех, кто хочет ими стать.</a></td>
+<td style="background:#f3d8a2;"><a href="http://www.myjulia.ru/" target="_blank">Социальная сеть,<br>ориентированная на женщин.</a></td>
+<td style="background:#fff69e;"><a href="http://www.povarenok.ru/" target="_blank">Крупнейший кулинарный сайт в Рунете.</a></td>
+<td style="background:#b4d89b;"><a href="http://www.diets.ru/" target="_blank">Социальная сеть для худеющих.<br>Худеем нескучно!</a></td>
+<td style="background:#b27cb2;"><a href="http://www.myjane.ru/" target="_blank" style="color:white;">Женский онлайн-глянец.<br>Более 200 статей в месяц.</a></td>
+<td style="background:#ef83b9;"><a href="http://www.relook.ru/" target="_blank" style="color:white;">Онлайн журнал о моде.</a></td>
+</tr>
+</table>
+</div>
+<div class="mediafort-logo">
+Единая регистрация для сайтов "Медиафорт"
+<div style="display:none;" class="mediafort-link"><a href="http://www.mediafort.ru/" target="_blank">www.mediafort.ru</a></div>
+</div>
+</div>
+
+<script>
+
+var tc_timer = false;
+$('#toptable-container').hover(
+	function(){
+		if(tc_timer) return;
+		tc_timer = setTimeout( function(){ 
+			tc_timer = false;
+			$('.toptable-extra').slideDown( {"queue":false} );
+			$('.mediafort-link').slideDown( {"queue":false} );
+			$('.toptable1 a').css('text-decoration','underline');			
+		}, 300 );
+	},
+	function(){
+		if(tc_timer) 
+		{
+			clearTimeout(tc_timer);
+			tc_timer = false;
+		}
+		else 
+		{
+			$('.toptable-extra').slideUp( {"queue":false, "complete": function() { $('.toptable1 a').css('text-decoration','none'); }  } );
+			$('.mediafort-link').slideUp( {"queue":false} );
+		}
+	}
+);
+
+</script>
+
+<div style="height:150px;"></div>
+
+
+
+
+
+<script>
+var form_submiting = false;
+function checkEmail()
+{
+	if(form_submiting) return false;
+	form_submiting = true;
+	
+	var mail = $("#email_id").val();	
+	
+	if(!mail.match(/^\s*[\w\-\.\_]+@[\w\-\.\_]+\.\w+\s*$/))
+	{
+		alert('Укажите, пожалуйста, адрес вашей электронной почты. Спасибо!');
+		$("#email_id").get(0).focus();
+		form_submiting = false;
+		return false;
+	}
+	
+	if($("#cap_id").length>0)
+	{
+		var cap = $("#cap_id").val();	
+		if(!cap.match(/\d{4,}/))
+		{
+			alert('Пожалуйста, введите цифры с картинки. Спасибо!');
+			$("#cap_id").get(0).focus();
+			form_submiting = false;
+			return false;
+		}
+	}
+}
+
+function refreshCap()
+{
+  document.getElementById('capimg').src='/lib/captcha/?rnd='+Math.floor(Math.random()*10000);
+  return false;
+}
+
+</script>
+<style>
+.big-enter a {background:url(/i/social/bigenter.png) no-repeat;display:block;height:28px;width:28px;margin-right:11px;float:left;}
+.big-enter a.be-vkontakte {background-position:0 0px;}
+.big-enter a.be-facebook {background-position:0 -42px;}
+.big-enter a.be-odnoklassniki {background-position:0 -84px;}
+</style>
+
+
+<center>
+<img src="/i/logos/big/povarenok.jpg" alt="Поварёнок">
+</center>
+<br>
+
+<div class="main-form">
+
+<div style="background:#FEFAD1;border:1px solid #ccc;text-align:left;font-size:14px;line-height:1.4;">
+<div style="padding:20px 20px 20px 30px;">
+	<h1 style="color:#333;font-style:normal;">Регистрация на Поварёнке</h1>
+
+	Пожалуйста, сообщите нам свой e-mail адрес.
+	<br>
+	<br>
+	
+	<form method="post" action="/invite/submit/" onsubmit="return checkEmail()">
+	<input type="hidden" name="site" value="povarenok">
+	<table>
+		<tr>
+		<td style="padding:8px 10px 0 0;text-align: right;"><strong>E-mail:</strong></td>
+		<td><input type="text" value="" style="font-size:16px;width: 315px;" name="email" id="email_id" class="inputfocus">
+		</td>
+		</tr>
+		<tr>
+		<td></td>
+		<td class="error"></td>
+		</tr>
+		
+				
+		<tr>
+		<td></td>
+		<td style="padding-top:12px;"><input type="submit" class="btn" name="submit" value="Продолжить"></td>
+		</tr>
+	</table>		
+	
+<script>
+$('#email_id').get(0).focus();
+</script>
+	
+	
+		
+	</form>	
+</div>
+</div>
+
+
+<div style="background:#fffde8;border:1px solid #ccc;border-top:0;text-align:left;font-size:13px;">
+<div style="padding:9px 20px 9px 28px;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align:middle;padding-right:20px;"><strong>Войти через социальную сеть:</strong></td>
+<td style="vertical-align:middle;">
+<div class="big-enter">
+<a href="/oauth/vkontakte/povarenok/" class="be-vkontakte" title="Войти через ВКонтакте"></a>
+<a href="/oauth/facebook/povarenok/" class="be-facebook" title="Войти через Facebook"></a>
+<a href="/oauth/odnoklassniki/povarenok/" class="be-odnoklassniki" title="Войти через Одноклассники"></a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div style="background:#eee;border:1px solid #ccc;border-top:0;text-align:left;font-size:13px;">
+<div style="padding:15px 20px 7px 28px;">
+	Если ваш почтовый ящик расположен на mail.ru, yandex или gmail,<br>
+	вы можете <strong>войти на сайт без регистрации</strong>:
+	<br>
+	<div style="padding-top:15px;" class="social-enter">
+	<table>
+	<tbody><tr>
+	<td width="160"><a class="se-mailru" href="/oauth/mailru/povarenok/"><span>Войти через mail.ru</span></a></td>
+	<td width="160"><a class="se-yandex" href="/oauth/yandex/povarenok/"><span>Войти через Яндекс</span></a></td>
+	<td><a class="se-gmail" href="/oauth/gmail/povarenok/"><span>Войти через GMail</span></a></td>
+	</tr>
+	</tbody></table>	
+	</div>
+	</div>
+</div>
+
+<div style="padding-top:10px;text-align:center;font-size:13px;">
+Если вы уже зарегистрированы, можете <a href="/login/povarenok/">войти на сайт</a>
+</div>
+
+</div>
+
+
+<br>
+<br>
+<br>
+<br>
+<div class="help">
+<a href="/help/" target="_blank">Помощь и ответы на вопросы</a>
+<br>
+<br>
+Если возникли трудности, и вы не нашли ответы в разделе "Помощь",
+<br>
+<a href="/feedback/"  target="_blank" style="font-size:15px;">напишите нам о проблеме</a> и мы постараемся помочь.
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!-- Rating@Mail.ru counter -->
+<div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2569903;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div>
+<!-- //Rating@Mail.ru counter -->
+
+
+</body>
+</html>
